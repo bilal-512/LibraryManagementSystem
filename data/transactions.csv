@@ -1,0 +1,2 @@
+transactionID|bookID|memberID|bookTitle|memberName|issueDate|returnDate|returned|fineAmount
+T0001|B0001|M0001|The Hobbit|John Doe|1781886123|1781886133|1|0.000000
